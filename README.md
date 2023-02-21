@@ -45,3 +45,5 @@ Sec 3)Machine learning by logistic regression, K-NearestNeighbor, decision tree,
 Sec 4)Review, compare and select the best model(s)
 
 Sec 5)Show the feature of importance for the best model(s)
+
+## Thank you for reviewing
