@@ -5,7 +5,7 @@ This dataset is sourced from Kaggle (https://www.kaggle.com/datasets/ninzaami/lo
 A given dataset contains loan application information. Analyse these dataset to assist lender to explore, visualise and automate the loan eligibility process based on the information provided by applicants. Lastly, applying the machine learning tools to see which model would predict the applications that should be approved/rejected. 
 
 
-Columns of data 
+## Columns of data 
 
 1)Loan_Id:Unique Loan ID
 
@@ -34,7 +34,7 @@ Columns of data
 13)Loan_Status:- Loan approved (Y/N)
 
 
-Table of Content
+## Table of Content
 
 Sec 1)Data exploration, visualisation and analysis
 
