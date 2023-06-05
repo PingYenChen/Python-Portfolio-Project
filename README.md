@@ -2,7 +2,7 @@
 This dataset is sourced from Kaggle (https://www.kaggle.com/datasets/ninzaami/loan-predication). 
 
 
-A given dataset contains loan application information. Analyse these dataset to assist lender to explore, visualise and automate the loan eligibility process based on the information provided by applicants. Lastly, applying the machine learning tools to see which model would predict the applications that should be approved/rejected. 
+A given dataset contains loan application information. Analyse these dataset to assist lender to explore, visualise and automate the loan eligibility process based on the information provided by applicants. Lastly, applying the machine learning tools to identify the best model(s) that would predict the application  outcomes with highest accuracy rate 
 
 
 ## Columns of data 
@@ -44,6 +44,6 @@ Sec 3)Machine learning by logistic regression, K-NearestNeighbor, decision tree,
 
 Sec 4)Review, compare and select the best model(s)
 
-Sec 5)Show the feature of importance for the best model(s)
+Sec 5)Identify the most importance feature(s) for the best model(s)
 
 ## Thank you for reviewing
